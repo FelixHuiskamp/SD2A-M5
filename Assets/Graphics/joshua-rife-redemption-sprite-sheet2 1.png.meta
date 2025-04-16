@@ -1,0 +1,1300 @@
+fileFormatVersion: 2
+guid: f54b243791555984bb7f283b855cf9e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 66998823477077599
+    second: joshua-rife-redemption-sprite-sheet2_0
+  - first:
+      213: 2265360074983038444
+    second: joshua-rife-redemption-sprite-sheet2_1
+  - first:
+      213: 6393724384244774364
+    second: joshua-rife-redemption-sprite-sheet2_2
+  - first:
+      213: -5498997136205244515
+    second: joshua-rife-redemption-sprite-sheet2_3
+  - first:
+      213: 4047013053238777956
+    second: joshua-rife-redemption-sprite-sheet2_4
+  - first:
+      213: 7490314967182545084
+    second: joshua-rife-redemption-sprite-sheet2_5
+  - first:
+      213: 513147417084502156
+    second: joshua-rife-redemption-sprite-sheet2_6
+  - first:
+      213: 5506847429322025402
+    second: joshua-rife-redemption-sprite-sheet2_7
+  - first:
+      213: 5891067228003031507
+    second: joshua-rife-redemption-sprite-sheet2_8
+  - first:
+      213: -8588220875232211046
+    second: joshua-rife-redemption-sprite-sheet2_9
+  - first:
+      213: -328988150702662652
+    second: joshua-rife-redemption-sprite-sheet2_10
+  - first:
+      213: 5444460650950066843
+    second: joshua-rife-redemption-sprite-sheet2_11
+  - first:
+      213: 5196955210544367561
+    second: joshua-rife-redemption-sprite-sheet2_12
+  - first:
+      213: 2433462070505528539
+    second: joshua-rife-redemption-sprite-sheet2_13
+  - first:
+      213: -9006463498217570684
+    second: joshua-rife-redemption-sprite-sheet2_14
+  - first:
+      213: 9100420258330248166
+    second: joshua-rife-redemption-sprite-sheet2_15
+  - first:
+      213: -2451133836618043361
+    second: joshua-rife-redemption-sprite-sheet2_16
+  - first:
+      213: -7269687747976148723
+    second: joshua-rife-redemption-sprite-sheet2_17
+  - first:
+      213: 2310054598798350717
+    second: joshua-rife-redemption-sprite-sheet2_18
+  - first:
+      213: 7944502651953983366
+    second: joshua-rife-redemption-sprite-sheet2_19
+  - first:
+      213: 3431475813499130771
+    second: joshua-rife-redemption-sprite-sheet2_20
+  - first:
+      213: 8251857431925143461
+    second: joshua-rife-redemption-sprite-sheet2_21
+  - first:
+      213: -4005837462981828394
+    second: joshua-rife-redemption-sprite-sheet2_22
+  - first:
+      213: 4482773062177538589
+    second: joshua-rife-redemption-sprite-sheet2_23
+  - first:
+      213: -3058455278782606960
+    second: joshua-rife-redemption-sprite-sheet2_24
+  - first:
+      213: 3412269283644124026
+    second: joshua-rife-redemption-sprite-sheet2_25
+  - first:
+      213: 7425596979339475077
+    second: joshua-rife-redemption-sprite-sheet2_26
+  - first:
+      213: -6636562791053637091
+    second: joshua-rife-redemption-sprite-sheet2_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1607
+        width: 165
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -26.749992, y: -234.56223}
+        - {x: -16.249992, y: -237.5}
+        - {x: 82.5, y: -237.5}
+        - {x: 82.5, y: 173.34082}
+        - {x: 78.25001, y: 237.5}
+        - {x: -28.249992, y: 237.5}
+        - {x: -82.24999, y: 137.34938}
+        - {x: -82.24999, y: -183.57436}
+        - {x: -74.74999, y: -237.5}
+        - {x: -28.249992, y: -237.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5668b133170ee000800000000000000
+      internalID: 66998823477077599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_1
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1590
+        width: 283
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -109.99997, y: 250}
+        - {x: -141.49997, y: 133.84612}
+        - {x: -141.49997, y: -175.08046}
+        - {x: -72.49997, y: -248.56299}
+        - {x: -70.99997, y: -250}
+        - {x: 80.50003, y: -250}
+        - {x: 141.5, y: -118.094}
+        - {x: 141.5, y: 250}
+      - - {x: -27.49997, y: 100.85396}
+        - {x: -25.99997, y: 102.3536}
+        - {x: -25.99997, y: 96.35503}
+        - {x: -27.49997, y: 94.855385}
+      - - {x: -27.49997, y: 78.35931}
+        - {x: -30.49997, y: 81.35859}
+        - {x: -30.49997, y: 84.35788}
+        - {x: -28.99997, y: 85.85752}
+        - {x: -28.99997, y: 88.85681}
+        - {x: -25.99997, y: 85.85752}
+        - {x: -25.99997, y: 78.35931}
+      - - {x: -54.49997, y: 34.86964}
+        - {x: -49.282585, y: 43.997913}
+        - {x: -48.49997, y: 40.868217}
+        - {x: -49.99997, y: 39.368572}
+        - {x: -53.85711, y: 34.226936}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced57bd5cfc207f10800000000000000
+      internalID: 2265360074983038444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_2
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1592
+        width: 298
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 149, y: -215.07053}
+        - {x: 149, y: 194.33217}
+        - {x: 86.50003, y: 249.5}
+        - {x: 41.50003, y: 249.5}
+        - {x: -21.49997, y: 207.82896}
+        - {x: -79.99997, y: 131.34714}
+        - {x: -148.99997, y: 12.875297}
+        - {x: -148.99997, y: -234.56589}
+        - {x: -145.99997, y: -249.5}
+        - {x: 131.50003, y: -249.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5b9aab3721bb850800000000000000
+      internalID: 6393724384244774364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_3
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1617
+        width: 330
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 165, y: -118.83742}
+        - {x: 165, y: -42.355595}
+        - {x: 106.25006, y: 163.09558}
+        - {x: 94.25006, y: 221.58168}
+        - {x: 70.25006, y: 237}
+        - {x: -21.249939, y: 237}
+        - {x: -139.74994, y: 115.10698}
+        - {x: -165, y: 65.618744}
+        - {x: -165, y: -103.84098}
+        - {x: -118.74994, y: -237}
+        - {x: -31.749939, y: -237}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9798935d33afa3b0800000000000000
+      internalID: -5498997136205244515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_4
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 1797
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 9, y: -0.32273823}
+        - {x: 3.250122, y: 13.5}
+        - {x: -8.749878, y: 13.5}
+        - {x: -8.749878, y: 2.676549}
+        - {x: 3.250122, y: -13.5}
+        - {x: 9, y: -13.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4689aaf0ee0e92830800000000000000
+      internalID: 4047013053238777956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_5
+      rect:
+        serializedVersion: 2
+        x: 2132
+        y: 1616
+        width: 323
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 66.50006, y: -104.84105}
+        - {x: 66.50006, y: -89.84461}
+        - {x: 65.00006, y: -88.34497}
+        - {x: 65.00006, y: -79.34711}
+        - {x: 66.50006, y: -82.3464}
+        - {x: 66.50006, y: -86.84533}
+        - {x: 77.00006, y: -119.83749}
+        - {x: 95.00006, y: -142.33214}
+        - {x: 101.00006, y: -142.33214}
+        - {x: 105.50006, y: -140.83249}
+        - {x: 161.5, y: -89.84461}
+        - {x: 161.5, y: -65.85032}
+        - {x: 71.00006, y: 238.5}
+        - {x: -126.99994, y: 238.5}
+        - {x: -161.49994, y: 127.60371}
+        - {x: -161.49994, y: -151.33}
+        - {x: -77.49994, y: -238.30933}
+        - {x: -32.49994, y: -238.30933}
+      - - {x: 53.00006, y: -79.34711}
+        - {x: 53.00006, y: -83.84604}
+        - {x: 51.87506, y: -83.84604}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb015baf6c1f2f760800000000000000
+      internalID: 7490314967182545084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_6
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 1797
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 9.5, y: 4.1761923}
+        - {x: -0.24993896, y: 13.5}
+        - {x: -9.249939, y: 13.5}
+        - {x: -9.249939, y: 2.676549}
+        - {x: -0.24993896, y: -9.3206}
+        - {x: 4.250061, y: -13.5}
+        - {x: 9.5, y: -13.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c802bb86bd01f1700800000000000000
+      internalID: 513147417084502156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_7
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 1650
+        width: 309
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 154.5, y: -151.07188}
+        - {x: 154.5, y: 42.382137}
+        - {x: 105.25012, y: 221.5}
+        - {x: -154.24988, y: 221.5}
+        - {x: -154.24988, y: -118.07973}
+        - {x: -77.74988, y: -221.5}
+        - {x: 28.750122, y: -221.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab923097f804c6c40800000000000000
+      internalID: 5506847429322025402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_8
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 1767
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 8, y: 3.4192312}
+        - {x: 4.250061, y: 11.5}
+        - {x: -4.749939, y: 11.5}
+        - {x: -7.749939, y: 6.4185185}
+        - {x: -7.749939, y: -5.57863}
+        - {x: -0.24993896, y: -11.5}
+        - {x: 8, y: -11.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9d0118e6641c150800000000000000
+      internalID: 5891067228003031507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1157
+        width: 297
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 148.5, y: -48.71343}
+        - {x: 80.74999, y: 212}
+        - {x: -127.749985, y: 212}
+        - {x: -148.5, y: 165.7356}
+        - {x: -148.5, y: -147.68991}
+        - {x: -64.749985, y: -212}
+        - {x: 148.5, y: -212}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f8037cd9280d880800000000000000
+      internalID: -8588220875232211046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_10
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1138
+        width: 288
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 144, y: -185.43546}
+        - {x: 144, y: 163.9815}
+        - {x: 97.250015, y: 221.5}
+        - {x: -142.74998, y: 221.5}
+        - {x: -144, y: 217.96867}
+        - {x: -144, y: -39.970024}
+        - {x: -4.7499847, y: -128.44899}
+        - {x: 25.250015, y: -131.44829}
+        - {x: 64.250015, y: -215.42831}
+        - {x: 73.250015, y: -221.4269}
+        - {x: 115.250015, y: -221.4269}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c1e0e15033f6bf0800000000000000
+      internalID: -328988150702662652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_11
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1093
+        width: 166
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -12.4999695, y: -208.69063}
+        - {x: 10.0000305, y: -238.6835}
+        - {x: 83, y: -237.18387}
+        - {x: 83, y: -232.68494}
+        - {x: 83, y: 238.20316}
+        - {x: 83, y: 239}
+        - {x: -36.49997, y: 239}
+        - {x: -82.99997, y: 181.21669}
+        - {x: -82.99997, y: -183.19669}
+        - {x: -64.99997, y: -238.6835}
+        - {x: -22.99997, y: -238.6835}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b928875bd1c9e8b40800000000000000
+      internalID: 5444460650950066843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_12
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1092
+        width: 192
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 96, y: 117.23169}
+        - {x: 87.25012, y: 239.5}
+        - {x: -23.749878, y: 239.5}
+        - {x: -95.74988, y: 150.22385}
+        - {x: -95.74988, y: -202.1924}
+        - {x: -89.74988, y: -239.5}
+        - {x: 96, y: -239.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7cc16ba3b4f1840800000000000000
+      internalID: 5196955210544367561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_13
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 1092
+        width: 192
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -24, y: -236.68419}
+        - {x: -10.5, y: -181.19739}
+        - {x: -10.5, y: -196.19382}
+        - {x: 4.5, y: -238.18384}
+        - {x: 76.5, y: -238.18384}
+        - {x: 81, y: -218.68848}
+        - {x: 70.5, y: -212.6899}
+        - {x: 96, y: -128.70985}
+        - {x: 96, y: -64.22518}
+        - {x: 66, y: 231.2046}
+        - {x: 57, y: 239.5}
+        - {x: -19.5, y: 239.5}
+        - {x: -96, y: 126.22955}
+        - {x: -96, y: -143.7063}
+        - {x: -73.5, y: -239.5}
+        - {x: -30, y: -239.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc5ede2cd465c120800000000000000
+      internalID: 2433462070505528539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_14
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 1093
+        width: 166
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -12.499878, y: -208.69063}
+        - {x: 10.000122, y: -238.6835}
+        - {x: 83, y: -237.18387}
+        - {x: 83, y: -232.68494}
+        - {x: 83, y: 238.20316}
+        - {x: 83, y: 239}
+        - {x: -36.499878, y: 239}
+        - {x: -82.99988, y: 181.21669}
+        - {x: -82.99988, y: -183.19669}
+        - {x: -64.99988, y: -238.6835}
+        - {x: -22.999878, y: -238.6835}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e383aaa2d920380800000000000000
+      internalID: -9006463498217570684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 593
+        width: 341
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 170.5, y: 151.35498}
+        - {x: 93, y: 225}
+        - {x: -34.5, y: 225}
+        - {x: -170.5, y: 80.87174}
+        - {x: -170.5, y: -225}
+        - {x: 170.5, y: -225}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e30b8442003b4e70800000000000000
+      internalID: 9100420258330248166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_16
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 586
+        width: 350
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 175, y: -49.09905}
+        - {x: 92.50003, y: 229}
+        - {x: 37.00003, y: 229}
+        - {x: -63.49997, y: 133.85747}
+        - {x: -171.49997, y: -47.599403}
+        - {x: -174.49997, y: -62.59584}
+        - {x: -174.49997, y: -92.588715}
+        - {x: -166.99997, y: -100.08693}
+        - {x: -163.99997, y: -100.08693}
+        - {x: -174.49997, y: -140.5773}
+        - {x: -174.49997, y: -161.57231}
+        - {x: -58.99997, y: -229}
+        - {x: 175, y: -229}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10f07323c2dbfdd0800000000000000
+      internalID: -2451133836618043361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_17
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 577
+        width: 295
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 147.5, y: 122.60799}
+        - {x: 142.00003, y: 229.08269}
+        - {x: 128.50003, y: 233}
+        - {x: 35.50003, y: 233}
+        - {x: -147.49997, y: 1.1368605}
+        - {x: -147.49997, y: -112.83605}
+        - {x: -102.49997, y: -156.32571}
+        - {x: 46.00003, y: -232.80754}
+        - {x: 147.5, y: -232.80754}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d094fd97281ec1b90800000000000000
+      internalID: -7269687747976148723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_18
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 576
+        width: 253
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 73.00012, y: -211.31287}
+        - {x: 61.000122, y: -209.81322}
+        - {x: 49.000122, y: -203.81464}
+        - {x: 50.500122, y: -194.81679}
+        - {x: 52.000122, y: -181.31999}
+        - {x: 52.000122, y: -194.81679}
+        - {x: 50.500122, y: -196.31642}
+        - {x: 50.500122, y: -202.315}
+        - {x: 58.000122, y: -206.81393}
+        - {x: 126.5, y: -148.32784}
+        - {x: 126.5, y: 233.5}
+        - {x: 53.500122, y: 233.5}
+        - {x: -22.999878, y: 196.5902}
+        - {x: -126.49988, y: 88.61585}
+        - {x: -126.49988, y: -109.3371}
+        - {x: -69.49988, y: -233.5}
+        - {x: 85.00012, y: -233.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79122d1b66fe0020800000000000000
+      internalID: 2310054598798350717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_19
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 583
+        width: 295
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 108.75, y: -208.81183}
+        - {x: 147.5, y: -97.838196}
+        - {x: 147.5, y: 233}
+        - {x: -74.25, y: 233}
+        - {x: -147.5, y: 53.625805}
+        - {x: -147.5, y: -232.80612}
+        - {x: 12.75, y: -232.80612}
+      - - {x: -120.75, y: -132.33}
+        - {x: -122.25, y: -132.33}
+        - {x: -117.75, y: -129.33072}
+        - {x: -117.75, y: -132.33}
+        - {x: -119.25, y: -133.82964}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fadd6f11b804e60800000000000000
+      internalID: 7944502651953983366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_20
+      rect:
+        serializedVersion: 2
+        x: 2647
+        y: 1036
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 3, y: -1.7533674}
+        - {x: 3, y: 3.5}
+        - {x: -2.749878, y: 3.5}
+        - {x: -2.749878, y: -1.7533674}
+        - {x: -1.2498779, y: -3.253011}
+        - {x: 3, y: -3.253011}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393d5f6521d0f9f20800000000000000
+      internalID: 3431475813499130771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_21
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 583
+        width: 275
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -47.49994, y: -224.55807}
+        - {x: 51.50006, y: -95.58873}
+        - {x: 54.50006, y: -83.59158}
+        - {x: 59.00006, y: -137.57875}
+        - {x: 63.50006, y: -169.07127}
+        - {x: 137.5, y: -191.56592}
+        - {x: 137.5, y: 232}
+        - {x: 35.00006, y: 232}
+        - {x: -95.49994, y: 144.35425}
+        - {x: -137.49994, y: -35.60299}
+        - {x: -137.49994, y: -149.5759}
+        - {x: -84.99994, y: -232}
+        - {x: -51.99994, y: -232}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7b0173d9c748270800000000000000
+      internalID: 8251857431925143461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_22
+      rect:
+        serializedVersion: 2
+        x: 3004
+        y: 1015
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 3.5, y: -1.7583101}
+        - {x: 3.5, y: 3.5}
+        - {x: -3.499878, y: 3.5}
+        - {x: -3.499878, y: -3.2579536}
+        - {x: 3.5, y: -3.2579536}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0240f1d086868c0800000000000000
+      internalID: -4005837462981828394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_23
+      rect:
+        serializedVersion: 2
+        x: 2989
+        y: 985
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 3, y: 2.5}
+        - {x: -2.749878, y: 2.5}
+        - {x: -2.749878, y: -2.5}
+        - {x: 3, y: -2.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1248cb6952063e30800000000000000
+      internalID: 4482773062177538589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_24
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 610
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 3.5, y: -1.8546007}
+        - {x: 3.5, y: 3.5}
+        - {x: -3.4999695, y: 3.5}
+        - {x: -3.4999695, y: -3.3542442}
+        - {x: 3.5, y: -3.3542442}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0919ebad02f2e85d0800000000000000
+      internalID: -3058455278782606960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 586
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 3, y: 2.5}
+        - {x: -1.2499695, y: 2.5}
+        - {x: -2.7499695, y: 2.5}
+        - {x: -2.7499695, y: -2.5}
+        - {x: 3, y: -2.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ba591a5d0da5f20800000000000000
+      internalID: 3412269283644124026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_26
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 589
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 4.5, y: 3.5}
+        - {x: -2.7499695, y: 3.5}
+        - {x: -4.2499695, y: 3.5}
+        - {x: -4.2499695, y: -3.3592327}
+        - {x: 4.5, y: -3.3592327}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5883eb63c150d0760800000000000000
+      internalID: 7425596979339475077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_27
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 68
+        width: 335
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 167.5, y: -224.43048}
+        - {x: 167.5, y: 30.508923}
+        - {x: 115.99999, y: 233.5}
+        - {x: -8.499985, y: 233.5}
+        - {x: -152.49998, y: 198.46901}
+        - {x: -167.49998, y: 47.005}
+        - {x: -167.49998, y: -233.42834}
+        - {x: 157.99998, y: -233.42834}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a4ca5bd4136e3a0800000000000000
+      internalID: -6636562791053637091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_28
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 72
+        width: 300
+        height: 463
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 150, y: -45.72201}
+        - {x: 106.250015, y: 216.7156}
+        - {x: 92.750015, y: 231.5}
+        - {x: 28.250015, y: 231.5}
+        - {x: -94.749985, y: 141.73343}
+        - {x: -150, y: 14.26373}
+        - {x: -150, y: -45.72201}
+        - {x: -136.74998, y: -59.218803}
+        - {x: -132.24998, y: -57.719162}
+        - {x: -127.749985, y: -54.719875}
+        - {x: -129.24998, y: -56.219517}
+        - {x: -150, y: -72.7156}
+        - {x: -150, y: -123.703476}
+        - {x: -142.74998, y: -152.1967}
+        - {x: 1.2500153, y: -231.5}
+        - {x: 150, y: -231.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e115a0d0e4f6b4aa4fd2af185240ad
+      internalID: 329819727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_29
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 68
+        width: 256
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 128, y: 232}
+        - {x: 4.0000305, y: 232}
+        - {x: -127.99997, y: 73.99859}
+        - {x: -127.99997, y: -53.471115}
+        - {x: -114.49997, y: -87.96292}
+        - {x: -94.99997, y: -87.96292}
+        - {x: -91.99997, y: -75.96577}
+        - {x: -87.49997, y: -84.96363}
+        - {x: -127.99997, y: -107.45828}
+        - {x: -127.99997, y: -156.94652}
+        - {x: -18.49997, y: -231.9287}
+        - {x: 128, y: -231.9287}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792f1c7cfe7e7aa48a3bc81abeff5b31
+      internalID: 1416962119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_30
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 272
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 4, y: -1.6849481}
+        - {x: 4, y: 3}
+        - {x: -3.999939, y: 3}
+        - {x: -3.999939, y: -3}
+        - {x: 3.500061, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a172287816b2e41a1200c4baf63c8e
+      internalID: 1623982624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_31
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 64
+        width: 264
+        height: 471
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 74.75006, y: -221.68211}
+        - {x: 128.75006, y: -131.70349}
+        - {x: 132, y: -67.21882}
+        - {x: 132, y: 96.24233}
+        - {x: 101.75006, y: 130.73413}
+        - {x: 99.083405, y: 150.72937}
+        - {x: 100.25006, y: 147.23021}
+        - {x: 113.75006, y: 147.23021}
+        - {x: 132, y: 192.21951}
+        - {x: 132, y: 193.71916}
+        - {x: 109.25006, y: 235.5}
+        - {x: 40.25006, y: 235.5}
+        - {x: -57.24994, y: 54.25231}
+        - {x: -22.749939, y: 25.759083}
+        - {x: -30.249939, y: 28.75837}
+        - {x: -127.74994, y: 18.260866}
+        - {x: -132, y: -17.730581}
+        - {x: -132, y: -116.707054}
+        - {x: -33.24994, y: -140.70135}
+        - {x: -13.749939, y: -131.70349}
+        - {x: -16.749939, y: -200.6871}
+        - {x: -7.749939, y: -235.1789}
+        - {x: 67.25006, y: -235.1789}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abb166ceb03f454ebbb84c21164dde2
+      internalID: -1511124803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: joshua-rife-redemption-sprite-sheet2_32
+      rect:
+        serializedVersion: 2
+        x: 2113
+        y: 64
+        width: 316
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 158, y: -97.96151}
+        - {x: 158, y: 167.4754}
+        - {x: 104.50012, y: 234.5}
+        - {x: 55.000122, y: 234.5}
+        - {x: -60.499878, y: 152.47896}
+        - {x: -157.99988, y: -61.970066}
+        - {x: -157.99988, y: -112.95795}
+        - {x: -103.99988, y: -229.93015}
+        - {x: -87.49988, y: -234.42908}
+        - {x: 61.000122, y: -234.42908}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207538286d88a854ba6de2b248800b84
+      internalID: -2022112369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 57d929b09d4fc9a45a38f0325c63f00f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      joshua-rife-redemption-sprite-sheet2_0: 66998823477077599
+      joshua-rife-redemption-sprite-sheet2_1: 2265360074983038444
+      joshua-rife-redemption-sprite-sheet2_10: -328988150702662652
+      joshua-rife-redemption-sprite-sheet2_11: 5444460650950066843
+      joshua-rife-redemption-sprite-sheet2_12: 5196955210544367561
+      joshua-rife-redemption-sprite-sheet2_13: 2433462070505528539
+      joshua-rife-redemption-sprite-sheet2_14: -9006463498217570684
+      joshua-rife-redemption-sprite-sheet2_15: 9100420258330248166
+      joshua-rife-redemption-sprite-sheet2_16: -2451133836618043361
+      joshua-rife-redemption-sprite-sheet2_17: -7269687747976148723
+      joshua-rife-redemption-sprite-sheet2_18: 2310054598798350717
+      joshua-rife-redemption-sprite-sheet2_19: 7944502651953983366
+      joshua-rife-redemption-sprite-sheet2_2: 6393724384244774364
+      joshua-rife-redemption-sprite-sheet2_20: 3431475813499130771
+      joshua-rife-redemption-sprite-sheet2_21: 8251857431925143461
+      joshua-rife-redemption-sprite-sheet2_22: -4005837462981828394
+      joshua-rife-redemption-sprite-sheet2_23: 4482773062177538589
+      joshua-rife-redemption-sprite-sheet2_24: -3058455278782606960
+      joshua-rife-redemption-sprite-sheet2_25: 3412269283644124026
+      joshua-rife-redemption-sprite-sheet2_26: 7425596979339475077
+      joshua-rife-redemption-sprite-sheet2_27: -6636562791053637091
+      joshua-rife-redemption-sprite-sheet2_28: 329819727
+      joshua-rife-redemption-sprite-sheet2_29: 1416962119
+      joshua-rife-redemption-sprite-sheet2_3: -5498997136205244515
+      joshua-rife-redemption-sprite-sheet2_30: 1623982624
+      joshua-rife-redemption-sprite-sheet2_31: -1511124803
+      joshua-rife-redemption-sprite-sheet2_32: -2022112369
+      joshua-rife-redemption-sprite-sheet2_4: 4047013053238777956
+      joshua-rife-redemption-sprite-sheet2_5: 7490314967182545084
+      joshua-rife-redemption-sprite-sheet2_6: 513147417084502156
+      joshua-rife-redemption-sprite-sheet2_7: 5506847429322025402
+      joshua-rife-redemption-sprite-sheet2_8: 5891067228003031507
+      joshua-rife-redemption-sprite-sheet2_9: -8588220875232211046
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

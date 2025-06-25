@@ -13,7 +13,7 @@ public class Earth : MonoBehaviour
     void Update()
     {
         transform.position = new Vector3(r * Mathf.Cos(t), 0, r * Mathf.Sin(t));
-
+        transform.Rotate(0, -0.5f, 0);
 
         t += Time.deltaTime;
     }
